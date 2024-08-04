@@ -1,2 +1,2 @@
-# fd_calculate
+# FD Calculator
 Project Mini with JS HTML CSS
